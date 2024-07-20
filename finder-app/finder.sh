@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#just another test comment
 # Check if the required arguments are provided
 if [ $# -ne 2 ]; then
     #echo "Error: Please provide the filesdir and searchstr arguments."
