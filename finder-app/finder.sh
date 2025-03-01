@@ -1,4 +1,10 @@
 #!/bin/bash
+
+
+make clean
+
+make
+
 #just another test comment
 # Check if the required arguments are provided
 if [ $# -ne 2 ]; then
