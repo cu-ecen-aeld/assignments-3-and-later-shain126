@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-make clean
+#make clean
 
-make
+#make
 
 #just another test comment
 # Check if the required arguments are provided
